@@ -1,0 +1,17 @@
+server:
+  port: 8778
+
+spring:
+  application:
+    name: CONTRACT-SERVICE
+
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    hostname: localhost
+
+

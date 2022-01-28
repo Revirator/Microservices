@@ -1,0 +1,7 @@
+SECURITY:
+https://www.bezkoder.com/spring-boot-jwt-mysql-spring-security-architecture/
+https://developer.okta.com/blog/2019/06/20/spring-preauthorize#configure-your-spring-boot-app-for-oauth-20
+
+ROUTING(predicates and filters):
+https://www.baeldung.com/spring-cloud-gateway
+https://www.baeldung.com/spring-cloud-gateway-routing-predicate-factories
